@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: yapadimuthu07@gmail.com or 0701064489
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like trains 
-- 🐳 Current stats: <a href="https://pramudithan.github.io/git-tulkun/">git-tulkun</a>
+- 🐳 Current stats: <a href="https://pramudithan.github.io/git-tulkun/">Dimuthu Yapa's git-tulkun</a>
 
 
 
