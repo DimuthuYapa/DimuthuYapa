@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like trains 
 - 🐳 Current stats: <a href="https://pramudithan.github.io/git-tulkun/">Dimuthu Yapa's git-tulkun</a>
+- 🏙️ Place git-city link here 
 
 
 
