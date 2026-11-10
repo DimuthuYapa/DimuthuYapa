@@ -14,7 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like trains 
 
-[![git-tulkun card](https://github-readme-stats.vercel.app/api/pin/?username=PramudithaN&repo=git-tulkun&theme=radical&show_owner=true)](https://github.com/PramudithaN/git-tulkun)
+<p align="center">
+  <a href="https://github.com/PramudithaN/git-tulkun">
+    <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/tulkun/tulkun.gif" width="640" alt="YOUR_USERNAME's git-tulkun" />
+  </a>
+</p>
+
 
 
 
