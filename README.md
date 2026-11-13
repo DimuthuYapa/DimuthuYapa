@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on back-end engineering / data analysis projects 
-- 🌱 I’m currently learning MERN stack + java 
+- 🌱 I’m currently learning java (for back-end work) and python (for data analysis)
 - 📫 How to reach me: yapadimuthu07@gmail.com or 0701064489
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like trains 
