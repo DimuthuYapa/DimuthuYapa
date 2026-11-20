@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I like trains 
 - 🐳 Current stats: <a href="https://pramudithan.github.io/git-tulkun/">Dimuthu Yapa's git-tulkun</a>
 - 🏙️ Place git-city link here--
+- VERY IMPORTANT ---- ALL READMES MUST CONTAIN A PROOF OF CODE AND PROJECT SHOWCASING WITH THE WEBCAM. 
 
 
 
